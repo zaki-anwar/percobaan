@@ -67,7 +67,7 @@ if ($result && $result->num_rows > 0) {
       <li class="nav-item">
         <a class="nav-link collapsed" href="user/jumlah_anggota.php">
           <i class="bi bi-person-lines-fill"></i>
-          <span>Jumlah Admin</span>
+          <span>Anggota Tim</span>
         </a>
       </li>
     </ul>
